@@ -1,4 +1,4 @@
-package question;
+package question.section3;
 
 import static java.lang.Thread.*;
 import static util.MyLogger.*;
